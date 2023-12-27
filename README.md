@@ -1,11 +1,11 @@
-## 👋 Hi there!
+## 👋 HI THERE!
 
 I'm Ismaël Perez, a front-end developer with a passion for crafting engaging digital experiences. 
 I retrained as a developer 3 years ago and have since honed my skills in WordPress, Next.js, JavaScript, React, and TypeScript. 
 With dual French and Spanish citizenship, I bring a unique blend of cultural perspectives to my work. 
 I'm always on the lookout for new challenges, especially in the fields of culture, photography, and innovation.
 
-## 🔭 Specialties and Interests:
+## 🔭 SPECIALTIES
 
 I specialize in creating engaging websites and am particularly drawn to projects in culture, photography, art, travel, and innovative tech fields.
 
@@ -13,29 +13,29 @@ I specialize in creating engaging websites and am particularly drawn to projects
 - 📚 Currently, I'm expanding my expertise into back-end development with Node.js and Express.js.
 - 📷 When not coding, I pursue my passion for photography, capturing the essence of Latin American culture through my lens.
 
-## 💼 Experience:
+## 💼 EXPERIENCE
 
 - 4 years as a Project Manager in Luxembourg
 - 2 years as a Web Developer in Montreal
 - Freelancing with a focus on front-end development and open to new opportunities
 
-## 🌟 Highlighted Projects:
+## 🌟 CURRENT PROJECT
 
 - My latest personal project involves developing a platform to showcase an analog photography project across Peru, Bolivia, Argentina, Mexico, and Colombia.
 
-## 📫 Connect with Me:
+## 📫 CONTACT AND PORTFOLIO
 
 [![LinkedIn Badge](https://img.shields.io/badge/-LinkedIn-0077B5?style=flat&logo=LinkedIn&logoColor=white)](https://www.linkedin.com/in/ismael-jhri/)
 [![Email Badge](https://img.shields.io/badge/-Email-D14836?style=flat&logo=gmail&logoColor=white)](mailto:ismael.jouhari@gmail.com)
 [![Malt Badge](https://img.shields.io/badge/-Malt-F7DF1E?style=flat&logo=malt&logoColor=white)](https://www.malt.fr/profile/ismaeljouhariperez)
 And check out my portfolio: [ismaelperez.cc](https://ismaelperez.cc)
 
-## 📷 Photography and Writing:
+## 📷 PERSONAL
 
 - Visit my photography site: [ismael.photos](https://ismael.photos)
 - Read my blog on photography: [kulturphoto.club](https://kulturphoto.club)
 
-## 🛠️ Languages and Frameworks:
+## 🛠️ LANGUAGES AND FRAMEWORKS
 
 ![PHP](https://img.shields.io/badge/-PHP-777BB4?style=flat&logo=php&logoColor=white)
 ![Next.js](https://img.shields.io/badge/-Next.js-000000?style=flat&logo=next.js&logoColor=white)
