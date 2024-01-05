@@ -45,4 +45,5 @@ And check out my portfolio: [ismaelperez.cc](https://ismaelperez.cc)
 ![Node.js](https://img.shields.io/badge/-Node.js-339933?style=flat&logo=node.js&logoColor=white)
 ![Express.js](https://img.shields.io/badge/-Express.js-000000?style=flat&logo=express&logoColor=white)
 ![Tailwind CSS](https://img.shields.io/badge/-Tailwind_CSS-38B2AC?style=flat&logo=tailwind-css&logoColor=white)
+![Vite.js](https://img.shields.io/badge/-Vite.js-646cff?style=flat&logo=vite&logoColor=white)
 
