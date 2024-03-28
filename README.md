@@ -18,6 +18,7 @@ I specialize in creating engaging websites and am particularly drawn to projects
 - 4 years as a Project Manager in Luxembourg
 - 2 years as a Web Developer in Montreal
 - Freelancing with a focus on front-end development and open to new opportunities
+- Currently training at [Le Wagon Bordeaux](https://github.com/lewagon) in Ruby and JS
 
 ## 🌟 CURRENT PROJECT
 
@@ -33,7 +34,8 @@ And check out my portfolio: [ismaelperez.cc](https://ismaelperez.cc)
 ## 📷 PERSONAL
 
 - Visit my photography site: [ismael.photos](https://ismael.photos)
-- Read my blog on photography: [kulturphoto.club](https://kulturphoto.club)
+- Visit my online temporary exhibition : [Moderne Solitude](https://mdoernesolitude.fr)
+- Read my blog on photography: [Kultur Photo](https://kulturphoto.club)
 
 ## 🛠️ LANGUAGES AND FRAMEWORKS
 
