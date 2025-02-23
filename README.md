@@ -9,16 +9,16 @@ I'm always on the lookout for new challenges, especially in the fields of cultur
 
 I specialize in creating engaging websites and am particularly drawn to projects in culture, photography, art, travel, and innovative tech fields.
 
-- 🌐 I'm skilled in WordPress, Next.js, JavaScript, React, and TypeScript.
+- 🌐 I'm skilled in WordPress, Next.js, JavaScript, React and TypeScript.
 - 📚 Currently, I'm expanding my expertise into back-end development with Node.js and Express.js.
 - 📷 When not coding, I pursue my passion for photography, capturing the essence of Latin American culture through my lens.
 
 ## 💼 EXPERIENCE
 
-- 4 years as a Project Manager in Luxembourg
-- 2 years as a Web Developer in Montreal
+- 4 years as Social Listening Specialist in Luxembourg
+- 3 years as a Web Developer in Montreal and in France
 - Freelancing with a focus on front-end development and open to new opportunities
-- Currently training at [Le Wagon Bordeaux](https://github.com/lewagon) in Ruby and JS
+- Trained during 1 year at OpenClassrooms in PHP/React and 3 months at [Le Wagon Bordeaux](https://github.com/lewagon) in Ruby and JS
 
 ## 🌟 CURRENT PROJECT
 
