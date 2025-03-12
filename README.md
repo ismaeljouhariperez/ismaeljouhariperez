@@ -1,7 +1,7 @@
 ## 👋 HI THERE!
 
 I'm **Ismaël Perez**, a **full-stack developer** passionate about building **engaging and performant web experiences**.  
-I transitioned into development over **three years ago**, focusing on modern web technologies such as **React, Next.js, TypeScript, and Node.js**.  
+I transitioned into development over **four years ago**, focusing on modern web technologies such as **React, Next.js, TypeScript, and Node.js**.  
 With **dual French and Spanish citizenship**, I bring a unique cultural perspective to my work, along with a strong **creative and technical mindset**.  
 I'm always eager to explore **new challenges**, particularly in **tech innovation, photography, and digital culture**.  
 
@@ -12,17 +12,17 @@ I'm always eager to explore **new challenges**, particularly in **tech innovatio
 I specialize in developing **scalable, high-performance web applications**, with a keen interest in **user experience (UX) and system architecture**.  
 
 - 🌐 **Core technologies**: **React, Next.js, TypeScript, JavaScript, PHP (Laravel), and Ruby on Rails**.  
-- 🔧 **Backend development**: Proficient in **Node.js, Express.js, PostgreSQL, and API development**.  
+- 🔧 **Backend development**: Proficient in **Express.js, PostgreSQL, and API development**.  
 - 🚀 **DevOps & Infrastructure**: Experience with **AWS (S3, EC2), Vercel, and CI/CD pipelines**.  
 - 🎨 **Design & UX**: Strong understanding of **responsive design, Tailwind CSS, and accessibility best practices**.  
-- 📚 **Currently expanding expertise** in **AI integration, machine learning models (LLMs), and advanced system architectures**.  
+- 📚 **Currently expanding expertise** in **AI integration (LangChain), machine learning models (LLMs), and advanced system architectures**.  
 
 ---
 
 ## 💼 **EXPERIENCE**  
 
-- **Full-Stack Developer** at **GENIAL** (Bordeaux) – Working on scalable applications using **React, Next.js, TypeScript, and Python**.  
-- **Web Developer** at **Index** (Montreal) – 3 years of experience building **React, TypeScript, and Next.js** applications with a strong focus on **performance and SEO**.  
+- **Full-Stack Developer** at **GENIAL** (Bordeaux) – Currently working on scalable applications using **React, Next.js, TypeScript, and Python**.  
+- **Web Developer** at **Index** (Montreal) – 2 years of experience building **React, TypeScript, and Next.js** applications with a strong focus on **performance and SEO**.  
 - **Social Listening Specialist** (Luxembourg) – 4 years of experience in **data analysis, brand monitoring, and strategic insights**.  
 - **Freelance Web Developer** – Working with startups and creative projects, specializing in **front-end development and API integrations**.  
 - **Tech Training**:  
