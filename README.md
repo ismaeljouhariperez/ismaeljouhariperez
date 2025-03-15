@@ -13,7 +13,7 @@ I specialize in developing **scalable, high-performance web applications**, with
 
 - 🌐 **Core technologies**: **React, Next.js, TypeScript, JavaScript, PHP (Laravel), and Ruby on Rails**.  
 - 🔧 **Backend development**: Proficient in **Express.js, PostgreSQL, and API development**.  
-- 🚀 **DevOps & Infrastructure**: Experience with **AWS (S3, EC2), Vercel, and CI/CD pipelines**.  
+- 🚀 **DevOps & Infrastructure**: Experience with **AWS (S3, EC2), DigitalOcean, and CI/CD pipelines**.  
 - 🎨 **Design & UX**: Strong understanding of **responsive design, Tailwind CSS, and accessibility best practices**.  
 - 📚 **Currently expanding expertise** in **AI integration (LangChain), machine learning models (LLMs), and advanced system architectures**.  
 
@@ -33,8 +33,36 @@ I specialize in developing **scalable, high-performance web applications**, with
 
 ## 🌟 **CURRENT PROJECTS**  
 
-- 🛠 **Developing an AI-driven platform** for **photography curation**, leveraging **React, Next.js, and GPT-based recommendation engines**.  
-- 🎞 **Analog photography showcase** – Building a digital exhibition of **photographs captured across Peru, Bolivia, Argentina, Mexico, and Colombia**.  
+- 🛠 **Refactoring my photography website** using **Sanity (Headless CMS), React, Next.js (SSR), GSAP & Barba.js**.  
+- 🗺 **Building an interactive map platform** inspired by *Layla.ai*, connecting **three microservices (Python, LangChain + Rails API + React/TypeScript frontend)**.  
+- 📚 **Developing a book-finding platform** for **photo books**, similar to *Chasse aux Livres*, powered by **AI recommendations (Python, Rails, TypeScript/React)**.  
+- 📝 **Creating a connector for Ghost CMS**, enabling **automated article generation** with a Python-based service.  
+- 📷 **Analog photography showcase** – Curating a digital exhibition of **photographs captured across Peru, Bolivia, Argentina, Mexico, and Colombia**.  
+
+---
+
+## 📚 **CURRENT LEARNING FOCUS**  
+
+### **1. Deployment & Orchestration**  
+- Learning **Docker orchestration** (Docker Compose, Kubernetes).  
+- Exploring the best deployment strategies between **AWS ECS, EC2 with Docker, and Fly.io**.  
+- Automating deployment workflows with **CI/CD (GitHub Actions, GitLab CI, etc.)**.  
+
+### **2. AI & LangChain**  
+- Deepening my knowledge of **LangChain** and exploring **Memory, Chains & Prompts (MCP)**.  
+- Implementing **Retrieval-Augmented Generation (RAG)** for better LLM-based responses.  
+- Understanding **Vector Stores** like Pinecone, Weaviate, or FAISS to efficiently store and retrieve embeddings.  
+
+### **3. API in Rails & SSR with React/TypeScript**  
+- Optimizing **Rails API for Server-Side Rendering (SSR)** with **Next.js**.  
+- Implementing **full SSR with Next.js** for better performance and SEO.  
+- Using **REST APIs** initially before potentially exploring **GraphQL**.  
+
+### **4. Advanced Web Development**  
+- Exploring **WebSockets** for real-time features.  
+- Learning **Server Actions with Next.js 14** for optimized SSR workflows.  
+- Integrating **Redis** for caching and session management.  
+- Structuring a **knowledge base in Notion** + **a dedicated GitHub repository** to track progress.  
 
 ---
 
@@ -43,7 +71,7 @@ I specialize in developing **scalable, high-performance web applications**, with
 [![LinkedIn Badge](https://img.shields.io/badge/-LinkedIn-0077B5?style=flat&logo=LinkedIn&logoColor=white)](https://www.linkedin.com/in/ismael-jhri/)  
 [![Email Badge](https://img.shields.io/badge/-Email-D14836?style=flat&logo=gmail&logoColor=white)](mailto:ismael.jouhari@gmail.com)  
 [![Malt Badge](https://img.shields.io/badge/-Malt-F7DF1E?style=flat&logo=malt&logoColor=white)](https://www.malt.fr/profile/ismaeljouhariperez)  
-🌍 Check out my portfolio: **[ismaelperez.cc](https://ismaelperez.cc)**  
+🌍 **Portfolio**: [ismaelperez.cc](https://ismaelperez.cc)  
 
 ---
 
