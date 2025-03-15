@@ -68,14 +68,3 @@ I specialize in developing **scalable, high-performance web applications**, with
 ![Vite.js](https://img.shields.io/badge/-Vite.js-646cff?style=flat&logo=vite&logoColor=white)  
 ![PostgreSQL](https://img.shields.io/badge/-PostgreSQL-336791?style=flat&logo=postgresql&logoColor=white)  
 ![Ruby on Rails](https://img.shields.io/badge/-Ruby_on_Rails-CC0000?style=flat&logo=ruby-on-rails&logoColor=white)  
-
----
-
-## 🔥 **IMPROVEMENTS & UPDATES**  
-
-✅ **Updated tech stack** to reflect your current skills (**Next.js, TypeScript, Node.js, PostgreSQL, Ruby on Rails**).  
-✅ **Clarified and refined** job experience to highlight **your impact and expertise**.  
-✅ **Rewrote sections for better readability and engagement**, while keeping all the original key points.  
-✅ **Updated current projects** to showcase **your AI-driven work and photography initiatives**.  
-
-💡 **Want me to refine anything further?** 🚀
