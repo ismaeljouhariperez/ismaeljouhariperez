@@ -11,7 +11,7 @@ I'm always eager to explore **new challenges**, particularly in **tech innovatio
 
 I specialize in developing **scalable, high-performance web applications**, with a keen interest in **user experience (UX) and system architecture**.  
 
-- 🌐 **Core technologies**: **React, Next.js, TypeScript, JavaScript, PHP (Laravel), and Ruby on Rails**.  
+- 🌐 **Core technologies**: **React/TypeScript, Next.js, Vanilla JS and Ruby on Rails**.  
 - 🔧 **Backend development**: Proficient in **Express.js, PostgreSQL, and API development**.  
 - 🚀 **DevOps & Infrastructure**: Experience with **AWS (S3, EC2), DigitalOcean, and CI/CD pipelines**.  
 - 🎨 **Design & UX**: Strong understanding of **responsive design, Tailwind CSS, and accessibility best practices**.  
@@ -33,11 +33,11 @@ I specialize in developing **scalable, high-performance web applications**, with
 
 ## 🌟 **CURRENT PROJECTS**  
 
-- 🛠 **Refactoring my photography website** using **Sanity (Headless CMS), React, Next.js (SSR), GSAP & Barba.js**.  
-- 🗺 **Building an interactive map platform** inspired by *Layla.ai*, connecting **three microservices (Python, LangChain + Rails API + React/TypeScript frontend)**.  
-- 📚 **Developing a book-finding platform** for **photo books**, similar to *Chasse aux Livres*, powered by **AI recommendations (Python, Rails, TypeScript/React)**.  
+- 🛠 **Refactoring my photography website** using **Sanity (Headless CMS), React, Next.js (SSR) and Framer/GSAP**.  
+- 🗺 **Building an interactive map platform** inspired by *Layla.ai*, connecting **3 microservices (Python, LangChain + Rails API + React/TypeScript frontend)**.  
+- 📚 **Developing a book-finding platform** for **photo books**, similar to *Chasse aux Livres*, powered by **AI recommendations (Python, Rails, TypeScript/React SSR)**.  
 - 📝 **Creating a connector for Ghost CMS**, enabling **automated article generation** with a Python-based service.  
-- 📷 **Analog photography showcase** – Curating a digital exhibition of **photographs captured across Peru, Bolivia, Argentina, Mexico, and Colombia**.  
+- 📷 **Analog photography showcase** – Curating a digital exhibition of **photographs captured across Peru, Bolivia, Argentina, Mexico, and Colombia using React/Typescript, Vite and GSAP**.  
 
 ---
 
