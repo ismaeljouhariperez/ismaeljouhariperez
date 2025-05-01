@@ -69,7 +69,7 @@ I specialize in developing **scalable, high-performance web applications**, with
 ## 📫 **CONTACT AND PORTFOLIO**  
 
 [![LinkedIn Badge](https://img.shields.io/badge/-LinkedIn-0077B5?style=flat&logo=LinkedIn&logoColor=white)](https://www.linkedin.com/in/ismael-jhri/)  
-[![Email Badge](https://img.shields.io/badge/-Email-D14836?style=flat&logo=gmail&logoColor=white)](mailto:ismael.jouhari@gmail.com)  
+[![Email Badge](https://img.shields.io/badge/-Email-D14836?style=flat&logo=gmail&logoColor=white)](mailto:contact@ismaelperez.cc)  
 [![Malt Badge](https://img.shields.io/badge/-Malt-F7DF1E?style=flat&logo=malt&logoColor=white)](https://www.malt.fr/profile/ismaeljouhariperez)  
 🌍 **Portfolio**: [ismaelperez.cc](https://ismaelperez.cc)  
 
