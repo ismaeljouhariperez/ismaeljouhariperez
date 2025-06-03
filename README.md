@@ -11,7 +11,7 @@ I'm always eager to explore **new challenges**, particularly in **tech innovatio
 
 I specialize in developing **scalable, high-performance web applications**, with a keen interest in **user experience (UX) and system architecture**.  
 
-- 🌐 **Core technologies**: **React/TypeScript, Next.js, Vanilla JS and Ruby on Rails**.  
+- 🌐 **Core technologies**: **Next 15+ and Astro 5+ with React/Typescript and Ruby on Rails**.  
 - 🔧 **Backend development**: Proficient in **Express.js, PostgreSQL, and API development**.  
 - 🚀 **DevOps & Infrastructure**: Experience with **AWS (S3, EC2), DigitalOcean, and CI/CD pipelines**.  
 - 🎨 **Design & UX**: Strong understanding of **responsive design, Tailwind CSS, and accessibility best practices**.  
@@ -21,13 +21,15 @@ I specialize in developing **scalable, high-performance web applications**, with
 
 ## 💼 **EXPERIENCE**  
 
+- **Freelance Full-stack Developer (Bordeaux)** – Currently working with agencies, specializing in **full-stacks apps, websites and interfaces**.
+- **Teacher Assistant** at **Le Wagon Bordeaux** – Mentoring beginner and junior devs on **Ruby on Rails**, frontend development, and full **MVP projects** in an in-person bootcamp setting.
 - **Full-Stack Developer** at **GENIAL** (Bordeaux) – Currently working on scalable applications using **React, Next.js, TypeScript, and Python**.  
-- **Web Developer** at **Index** (Montreal) – 2 years of experience building **React, TypeScript, and Next.js** applications with a strong focus on **performance and SEO**.  
+- **Full-stack Developer** at **Index** (Montreal) – 2 years of experience building **Laravel (PHP) and Next.js** applications with a strong focus on **performance and SEO**.
+- **Freelance Full-stack Developer (France)** – Working with startups and creative projects, specializing in **front-end development and API integrations**.  
 - **Social Listening Specialist** (Luxembourg) – 4 years of experience in **data analysis, brand monitoring, and strategic insights**.  
-- **Freelance Web Developer** – Working with startups and creative projects, specializing in **front-end development and API integrations**.  
 - **Tech Training**:  
-  - **OpenClassrooms** (1-year intensive training in **PHP, React, and full-stack development**).  
-  - **Le Wagon Bordeaux** (3-month immersive bootcamp focusing on **Ruby on Rails, JavaScript, and product-driven development**).  
+  - **OpenClassrooms** (1+ year intensive training in **PHP, React, and full-stack development**).  
+  - **Le Wagon Bordeaux** (4-month immersive bootcamp focusing on **Ruby on Rails, JavaScript, and product-driven development**).  
 
 ---
 
@@ -85,14 +87,11 @@ I specialize in developing **scalable, high-performance web applications**, with
 
 ## 🛠️ **LANGUAGES AND FRAMEWORKS**  
 
-![PHP](https://img.shields.io/badge/-PHP-777BB4?style=flat&logo=php&logoColor=white)  
 ![Next.js](https://img.shields.io/badge/-Next.js-000000?style=flat&logo=next.js&logoColor=white)  
-![JavaScript](https://img.shields.io/badge/-JavaScript-F7DF1E?style=flat&logo=javascript&logoColor=black)  
 ![React](https://img.shields.io/badge/-React-61DAFB?style=flat&logo=react&logoColor=black)  
 ![TypeScript](https://img.shields.io/badge/-TypeScript-3178C6?style=flat&logo=typescript&logoColor=white)  
-![Node.js](https://img.shields.io/badge/-Node.js-339933?style=flat&logo=node.js&logoColor=white)  
+![Ruby on Rails](https://img.shields.io/badge/-Ruby_on_Rails-CC0000?style=flat&logo=ruby-on-rails&logoColor=white)  
 ![Express.js](https://img.shields.io/badge/-Express.js-000000?style=flat&logo=express&logoColor=white)  
 ![Tailwind CSS](https://img.shields.io/badge/-Tailwind_CSS-38B2AC?style=flat&logo=tailwind-css&logoColor=white)  
 ![Vite.js](https://img.shields.io/badge/-Vite.js-646cff?style=flat&logo=vite&logoColor=white)  
 ![PostgreSQL](https://img.shields.io/badge/-PostgreSQL-336791?style=flat&logo=postgresql&logoColor=white)  
-![Ruby on Rails](https://img.shields.io/badge/-Ruby_on_Rails-CC0000?style=flat&logo=ruby-on-rails&logoColor=white)  
