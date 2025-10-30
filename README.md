@@ -14,7 +14,7 @@ I care about code quality, performance, and building things that *feel* good to 
 - **Backend:** `Express.js` · `Node.js` · `Ruby on Rails` · `PostgreSQL` · `REST APIs`
 - **Infra:** `Vercel` · `AWS` · `DigitalOcean` · `CI/CD` pipelines
 - **CMS & Content:** `Sanity` · `Contentful` · `Ghost CMS`
-- **Currently exploring:** AI integration (`LangChain`, `RAG`, `Python services`) & system architecture patterns
+- **Currently exploring:** `React Native` & `Expo` frameworks
 
 ---
 
@@ -39,7 +39,7 @@ I care about code quality, performance, and building things that *feel* good to 
 
 ## 📚 Learning Focus (2025)
 
-- 🧩 **AI Systems** — LangChain · RAG pipelines · Vector stores  
+- 🧩 **Mobile integration ** — React Native · Expo
 - ⚡ **Performance** — Server Actions, PPR, edge rendering  
 - 🧱 **Architecture** — Modular monorepos & API orchestration  
 - 🐳 **Deployment** — Docker & CI/CD automation  
