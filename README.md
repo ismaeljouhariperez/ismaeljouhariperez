@@ -10,7 +10,7 @@ I care about code quality, performance, and building things that *feel* good to 
 
 ## ⚙️ Core Stack & Focus
 
-- **Frontend:** `React 19` · `Next.js 15.5` · `Astro 5` · `TypeScript` · `Tailwind 4` · `Framer Motion`
+- **Frontend:** `React 19` · `Next.js 15.5` · `TanStack Start` · `Astro 5` · `TypeScript` · `Tailwind 4` · `Framer Motion`
 - **Backend:** `Express.js` · `Node.js` · `Ruby on Rails` · `PostgreSQL` · `REST APIs`
 - **Infra:** `Vercel` · `AWS` · `DigitalOcean` · `CI/CD` pipelines
 - **CMS & Content:** `Sanity` · `Contentful` · `Ghost CMS`
@@ -27,19 +27,19 @@ I care about code quality, performance, and building things that *feel* good to 
 
 ---
 
-## 🚀 Current Projects
+## 🚀 Latest Projects
 
 - **🖥 [ismaelperez.cc](https://www.ismaelperez.cc)** — Personal portfolio built with Next.js 15.5 + Sanity + Tailwind 4  
 - **📸 [ismaelperezleon.com](https://www.ismaelperezleon.com)** — Minimal photography site using React + Framer Motion  
-- **🗺 Infiniment Charentes** — AI-driven travel platform built at [GENIAL](https://www.wearegenial.com/)  
-- **🤖 Les Deeptechs Engine V2 (BPI France)** — Chat interface integrating LLMs & structured data  
-- **🇫🇷 Marianne (Atout France)** — Intelligent travel planner powered by Genial Factory AI
+- **🗺 [Infiniment Charentes](https://www.infiniment-charentes.com/)** — AI-driven travel platform
+- **🤖 [Les Deeptechs Engine V2 (BPI France)](https://www.lesdeeptech.fr/)** — Chat interface integrating LLMs & structured data  
+- **🇫🇷 [Marianne (Atout France)](https://marianne.france.fr/)** — Intelligent travel planner powered by Genial AI
 
 ---
 
 ## 📚 Learning Focus (2025)
 
-- 🧩 **Mobile integration ** — React Native · Expo
+- 🧩 **Mobile integration** — React Native · Expo
 - ⚡ **Performance** — Server Actions, PPR, edge rendering  
 - 🧱 **Architecture** — Modular monorepos & API orchestration  
 - 🐳 **Deployment** — Docker & CI/CD automation  
