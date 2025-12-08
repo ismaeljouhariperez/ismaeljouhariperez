@@ -37,7 +37,7 @@ I care about code quality, performance, and building things that *feel* good to 
 
 ---
 
-## 📚 Learning Focus (2025)
+## 📚 Learning Focus (2026)
 
 - 🧩 **Mobile integration** — React Native · Expo
 - ⚡ **Performance** — Server Actions, PPR, edge rendering  
