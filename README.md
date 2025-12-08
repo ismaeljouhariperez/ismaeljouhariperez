@@ -1,9 +1,9 @@
-## 👋 HI THERE!
+## Hello, friend
 
 I'm **Ismaël Perez**, a **full-stack developer** crafting **clean, fast, and meaningful web experiences**.  
 With a background in **creative industries** and over **4 years in modern web development**, I blend **technical precision** with **design sensitivity**.
 
-Dual French–Spanish citizen 🇫🇷🇪🇸, based in Bordeaux — working remotely across Europe.  
+Dual French–Spanish citizen 🇫🇷🇪🇸, based in Bordeaux. Working remotely across Europe.  
 I care about code quality, performance, and building things that *feel* good to use.
 
 ---
