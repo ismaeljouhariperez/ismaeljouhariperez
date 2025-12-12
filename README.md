@@ -20,17 +20,19 @@ I care about code quality, performance, and building things that *feel* good to 
 
 ## 🧠 What I Do
 
-- Build **scalable, SEO-optimized web apps** for agencies, startups, and cultural institutions  
+- Build **scalable, SEO-optimized web apps** for agencies, startups, and cultural institutions
+- Design **educational games** that teach cybersecurity fundamentals to beginners through gamified CTF experiences
 - Help teams **integrate AI features** into real-world tools  
 - Mentor students in **full-stack development** at [Le Wagon Bordeaux](https://www.lewagon.com/fr/bordeaux)  
-- Collaborate on **digital products** that mix tech, design, and storytelling  
+- Collaborate on **digital products** that mix tech, design, and storytelling
 
 ---
 
 ## 🚀 Latest Projects
 
-- **🖥 [ismaelperez.cc](https://www.ismaelperez.cc)** — Personal portfolio built with Next.js 15.5 + Sanity + Tailwind 4  
-- **📸 [ismaelperezleon.com](https://www.ismaelperezleon.com)** — Minimal photography site using React + Framer Motion  
+- **🎮 [fsociety](https://f-society.aoo)** — Interactive CTF game teaching cybersecurity fundamentals through a Mr. Robot-inspired narrative (Next.js 16 + Supabase + Prisma)
+- **🖥 [ismaelperez.cc](https://www.ismaelperez.cc)** — Personal portfolio built with Next.js 16 + Sanity + Tailwind 4  
+- **📸 [ismaelperezleon.com](https://www.ismaelperezleon.com)** — Minimal photography site using Next.js 16 + Sanity + Framer Motion  
 - **🗺 [Infiniment Charentes](https://www.infiniment-charentes.com/)** — AI-driven travel platform
 - **🤖 [Les Deeptechs Engine V2 (BPI France)](https://www.lesdeeptech.fr/)** — Chat interface integrating LLMs & structured data  
 - **🇫🇷 [Marianne (Atout France)](https://marianne.france.fr/)** — Intelligent travel planner powered by Genial AI
