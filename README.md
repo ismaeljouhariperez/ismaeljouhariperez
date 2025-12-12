@@ -30,7 +30,7 @@ I care about code quality, performance, and building things that *feel* good to 
 
 ## 🚀 Latest Projects
 
-- **🎮 [fsociety](https://f-society.aoo)** — Interactive CTF game teaching cybersecurity fundamentals through a Mr. Robot-inspired narrative (Next.js 16 + Supabase + Prisma)
+- **🎮 [fsociety](https://f-society.app)** — Interactive CTF game teaching cybersecurity fundamentals through a Mr. Robot-inspired narrative (Next.js 16 + Supabase + Prisma)
 - **🖥 [ismaelperez.cc](https://www.ismaelperez.cc)** — Personal portfolio built with Next.js 16 + Sanity + Tailwind 4  
 - **📸 [ismaelperezleon.com](https://www.ismaelperezleon.com)** — Minimal photography site using Next.js 16 + Sanity + Framer Motion  
 - **🗺 [Infiniment Charentes](https://www.infiniment-charentes.com/)** — AI-driven travel platform
