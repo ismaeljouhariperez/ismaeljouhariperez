@@ -1,16 +1,16 @@
 ## Hello, friend
 
 I'm **Ismaël Perez**, a **full-stack developer** crafting **clean, fast, and meaningful web experiences**.  
-With a background as **product and project manager** for 5 years and **5 years in modern web development**, I blend **technical precision** with **design sensitivity**.
+With a background as **product manager** for 5 years and **5 years in modern web development**, I blend **technical precision** with **design sensitivity**.
 
 Dual French–Spanish citizen 🇫🇷🇪🇸, based in Bordeaux. Working remotely across Europe.  
-I care about code quality, performance, and building things that *feel* good to use.
+I care about code quality, performance and building things that *feel* good to use.
 
 ---
 
 ## ⚙️ Core Stack & Focus
 
-- **Frontend:** `React 19` · `Next.js 15.5` · `TanStack Start` · `Astro 5` · `TypeScript` · `Tailwind 4` · `Framer Motion`
+- **Frontend:** `React 19` · `Next.js 16` · `TanStack Start` · `Astro 5` · `TypeScript` · `Tailwind 4` · `Framer Motion`
 - **Backend:** `Express.js` · `Node.js` · `Ruby on Rails` · `PostgreSQL` · `REST APIs`
 - **Infra:** `Vercel` · `AWS` · `Scaleway` · `Cloudlare R2` · `DigitalOcean` · `Docker` · `CI/CD` pipelines
 - **CMS & Content:** `Sanity` · `Contentful` ·  `Payload` ·  `Ghost CMS`
