@@ -1,7 +1,7 @@
 ## Hello, friend
 
 I'm **Ismaël Perez**, a **full-stack developer** crafting **clean, fast, and meaningful web experiences**.  
-With a background as **product manager** for 5 years and **5+ years in modern web development**, I blend **technical precision** with **design sensitivity**.
+With a background as **product manager** for 5+ years and **6 years in modern web development**, I blend **technical precision** with **design sensitivity**.
 
 Dual French–Spanish citizen 🇫🇷🇪🇸, based in Bordeaux. Working remotely across Europe.  
 I care about code quality, performance and building things that *feel* good to use.
