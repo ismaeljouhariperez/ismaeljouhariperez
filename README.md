@@ -10,8 +10,8 @@ I care about code quality, performance and building things that *feel* good to u
 
 ## ⚙️ Core Stack & Focus
 
-- **Frontend:** `React 19` · `Next.js 16` · `TanStack Start` · `Astro 5` · `TypeScript` · `Tailwind 4` · `Framer Motion`
-- **Backend:** `Express.js` · `Node.js` · `Ruby on Rails` · `PostgreSQL` · `REST APIs`
+- **Frontend:** `React 19` · `Next.js 16` · `TanStack Start` · `Astro 6` · `TypeScript` · `Tailwind 4` · `Framer Motion`
+- **Backend:** `Laravel` · `Node.js` · `Ruby on Rails` · `PostgreSQL` · `REST APIs`
 - **Infra:** `Vercel` · `AWS` · `Scaleway` · `Cloudlare R2` · `Coolify` · `Docker` · `CI/CD` pipelines
 - **CMS & Content:** `Sanity` · `Contentful` ·  `Payload` ·  `Ghost CMS`
 - **Currently exploring:** `React Native` & `Expo` frameworks
@@ -44,7 +44,6 @@ I care about code quality, performance and building things that *feel* good to u
 - 🧩 **Mobile integration** — React Native · Expo
 - ⚡ **Performance** — Server Actions, PPR, edge rendering  
 - 🧱 **Architecture** — Modular monorepos & API orchestration  
-- 🐳 **Deployment** — Docker & CI/CD automation  
 
 ---
 
