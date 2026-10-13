@@ -1,20 +1,20 @@
 ## Hello, friend
 
-I'm **Ismaël Perez**, a **full-stack developer** crafting **clean, fast, and meaningful web experiences**.  
-With a background as **product manager** for 5+ years and **6 years in modern web development**, I blend **technical precision** with **design sensitivity**.
+I'm **Ismaël Perez**, a **full-stack developer** crafting **clean, fast and meaningful web experiences**.  
+With a background as **product manager** for 5+ years and **7 years in modern web development**, I blend **technical precision** with **design sensitivity**.
 
-Dual French–Spanish citizen 🇫🇷🇪🇸, based in Bordeaux. Working remotely across Europe.  
+Dual French–Spanish citizen 🇫🇷🇪🇸 based in Bordeaux. Working remotely across Europe.  
 I care about code quality, performance and building things that *feel* good to use.
 
 ---
 
 ## ⚙️ Core Stack & Focus
 
-- **Frontend:** `React 19` · `Next.js 16` · `TanStack Start` · `Astro 6` · `TypeScript` · `Tailwind 4` · `Framer Motion`
+- **Frontend:** `React 19` · `Next.js 16` · `TanStack Start` · `Astro 7` · `TypeScript 7` · `Tailwind 4` · `Framer Motion`
 - **Backend:** `Laravel` · `Node.js` · `Ruby on Rails` · `PostgreSQL` · `REST APIs`
 - **Infra:** `Vercel` · `AWS` · `Scaleway` · `Cloudlare R2` · `Coolify` · `Docker` · `CI/CD` pipelines
 - **CMS & Content:** `Sanity` · `Contentful` ·  `Payload` ·  `Ghost CMS`
-- **Currently exploring:** `React Native` & `Expo` frameworks
+- **Currently learning:** `React Native` & `Expo` frameworks
 
 ---
 
