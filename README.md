@@ -11,8 +11,8 @@ I care about code quality, performance and building things that *feel* good to u
 ## ⚙️ Core Stack & Focus
 
 - **Frontend:** `React 19` · `Next.js 16` · `TanStack Start` · `Astro 7` · `TypeScript 7` · `Tailwind 4` · `Framer Motion`
-- **Backend:** `Laravel` · `Node.js` · `Ruby on Rails` · `PostgreSQL` · `REST APIs`
-- **Infra:** `Vercel` · `AWS` · `Scaleway` · `Cloudlare R2` · `Coolify` · `Docker` · `CI/CD` pipelines
+- **Backend:** `Laravel` · `Node.js` · `Ruby on Rails` · `PostgreSQL` · `REST APIs` · `Convex` 
+- **Infra:** `AWS` · `Scaleway` · `Cloudlare R2` · `Coolify` · `Docker` · `CI/CD` pipelines
 - **CMS & Content:** `Sanity` · `Contentful` ·  `Payload` ·  `Ghost CMS`
 - **Currently learning:** `React Native` & `Expo` frameworks
 
@@ -24,7 +24,7 @@ I care about code quality, performance and building things that *feel* good to u
 - Design **educational games** that teach cybersecurity fundamentals to beginners through gamified CTF experiences
 - Help teams **integrate AI features** into real-world tools  
 - Mentor students in **full-stack development** at [Le Wagon Bordeaux](https://www.lewagon.com/fr/bordeaux)  
-- Collaborate on **digital products** that mix tech, design, and storytelling
+- Collaborate on **digital products** that mix tech, design and storytelling
 
 ---
 
@@ -32,7 +32,7 @@ I care about code quality, performance and building things that *feel* good to u
 
 - **🎮 [fsociety](https://f-society.app)** — Interactive CTF game teaching cybersecurity fundamentals through a Mr. Robot-inspired narrative (Next.js 16 + Supabase + Prisma)
 - **🖥 [ismaelperez.cc](https://www.ismaelperez.cc)** — Personal portfolio built with Next.js 16 + Sanity + Tailwind 4  
-- **📸 [ismaelperezleon.com](https://www.ismaelperezleon.com)** — Minimal photography site using Next.js 16 + Sanity + Framer Motion  
+- **📸 [ismaelperezleon.com](https://www.ismaelperezleon.com)** — Minimal photography site using Astro 7 + WebGL  
 - **🗺 [Infiniment Charentes](https://www.infiniment-charentes.com/)** — AI-driven travel platform
 - **🤖 [Les Deeptechs Engine V2 (BPI France)](https://www.lesdeeptech.fr/)** — Chat interface integrating LLMs & structured data  
 - **🇫🇷 [Marianne (Atout France)](https://marianne.france.fr/)** — Intelligent travel planner powered by Genial AI
